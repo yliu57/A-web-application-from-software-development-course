@@ -3,4 +3,4 @@
 https://github.com/ckruger097/safetravels.git
 
 Hint:
-I do not know how to set the contributor at that time so my name is not shown in the contributor list. But my commitment can be found in action of the repository.
+I do not know how to set the contributor at that time so my name is not shown in the contributor list. But my commitment can be found in "Action" part of the repository.
